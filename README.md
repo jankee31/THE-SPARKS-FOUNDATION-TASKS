@@ -3,7 +3,9 @@ This repository contains the tasks that I have completed while working as Data S
 
 
 Internship Category - Data Science and Business Analytics
+
 Internship Duration - 1 Month ( January-2021 )
+
 Internship Type - Remote
 
 
