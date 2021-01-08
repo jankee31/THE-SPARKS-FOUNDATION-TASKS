@@ -21,6 +21,8 @@ This repository contains the tasks that I have completed while working as Data S
 
 • What will be predicted score if a student studies for 9.25 hrs/ day?
 
+• Solution: https://github.com/jankee31/THE-SPARKS-FOUNDATION-TASKS/blob/main/TestScorePrediction_SL.ipynb
+
 ## Task 2 : Prediction using Unsupervised ML (Level - Beginner)
 
 • From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. 
