@@ -4,12 +4,12 @@ This repository contains the tasks that I have completed while working as Data S
 
 🔭Internship Category - Data Science and Business Analytics
 
-📆Internship Duration - 1 Month ( January-2021 )
+📆Internship Duration - 1 Month (January-2021)
 
 🌐Internship Type - Remote
 
 
-## Task-1 : Prediction using Supervised ML (Level - Beginner)
+## Task 1 : Prediction using Supervised ML (Level - Beginner)
 
 • Predict the percentage of marks of an student based on the number of study hours.
 
@@ -20,3 +20,13 @@ This repository contains the tasks that I have completed while working as Data S
 • You can use R, Python, SAS Enterprise Miner or any other tool.
 
 • What will be predicted score if a student studies for 9.25 hrs/ day?
+
+## Task 2 : Prediction using Unsupervised ML (Level - Beginner)
+
+• From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. 
+
+• Use R or Python or perform this task
+
+• Dataset : https://bit.ly/3kXTdox
+
+
