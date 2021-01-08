@@ -31,4 +31,7 @@ This repository contains the tasks that I have completed while working as Data S
 
 • Dataset : https://bit.ly/3kXTdox
 
+• Solution: https://github.com/jankee31/THE-SPARKS-FOUNDATION-TASKS/blob/main/IrisFlowerClassification_UL.ipynb
+
+
 
