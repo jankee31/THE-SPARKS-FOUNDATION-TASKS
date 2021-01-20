@@ -1,12 +1,10 @@
-# THE-SPARKS-FOUNDATION-TASKS 
-This repository contains the tasks that I have completed while working as Data Science &amp; Business Analyst Intern for The Sparks Foundation.
+## THE-SPARKS-FOUNDATION-TASKS 
 
+### 🔭Internship Category - Data Science and Business Analytics
 
-🔭Internship Category - Data Science and Business Analytics
+### 📆Internship Duration - 1 Month (January-2021)
 
-📆Internship Duration - 1 Month (January-2021)
-
-🌐Internship Type - Remote
+### 🌐Internship Type - Remote
 
 
 ## Task 1 : Prediction using Supervised ML (Level - Beginner)
